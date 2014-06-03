@@ -1,4 +1,5 @@
 tokyostreetart
 ==============
 
-rails app for tokyostreet art
+This is the rails app for tokyostreet art  (www.tokyostreetart.net)
+
